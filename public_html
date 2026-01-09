@@ -1,0 +1,12 @@
+public_html
+│
+├── index.html
+├── about.html
+├── skills.html
+├── contact.html
+│
+├── assets
+│   ├── css
+│   │   └── style.css
+│   └── images
+│       └── og-image.jpg
